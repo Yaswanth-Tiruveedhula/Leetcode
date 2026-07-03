@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0263-ugly-number](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0326-power-of-three) |
 ## Array
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
