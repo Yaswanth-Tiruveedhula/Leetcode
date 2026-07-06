@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Recursion
