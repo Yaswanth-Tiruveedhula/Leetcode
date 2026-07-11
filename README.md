@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0697-degree-of-an-array](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0697-degree-of-an-array) |
@@ -107,10 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0058-length-of-last-word) |
 | [0290-word-pattern](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
