@@ -1,7 +1,6 @@
 class Solution {
     public int getWinner(int[] arr, int k) {
         int n=arr.length;
-        // int ele=2;
         if(k>=n){
             int max=0;
             for(int i:arr){
@@ -14,7 +13,6 @@ class Solution {
         for(int i:arr){
             if(i<max){
                 c++;
-                System.out.println(c);
             }else if(i>max){
                 max=i;
                 c=1;
