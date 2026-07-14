@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0697-degree-of-an-array](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0697-degree-of-an-array) |
@@ -57,12 +58,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0709-to-lower-case) |
