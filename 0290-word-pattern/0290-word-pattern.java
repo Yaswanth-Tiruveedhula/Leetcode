@@ -13,7 +13,7 @@ class Solution {
             }else if(map.containsValue(str[i])){
                 return false;
             }else{
-                map.put(now,map.getOrDefault(now,"")+str[i]);
+                map.put(now,str[i]);
             }
             i++;
         }
