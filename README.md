@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1518-water-bottles](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/1518-water-bottles) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
 |  |
@@ -133,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0709-to-lower-case) |
 | [0917-reverse-only-letters](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0917-reverse-only-letters) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
