@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0162-find-peak-element) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0389-find-the-difference) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
