@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0058-length-of-last-word) |
 | [0290-word-pattern](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
