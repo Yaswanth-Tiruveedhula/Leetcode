@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
@@ -182,6 +184,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
