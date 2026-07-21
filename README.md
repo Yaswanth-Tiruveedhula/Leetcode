@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0326-power-of-three](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
@@ -175,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
