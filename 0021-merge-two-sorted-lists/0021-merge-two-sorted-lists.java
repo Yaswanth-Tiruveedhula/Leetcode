@@ -19,14 +19,14 @@ class Solution {
             int val1=list1!=null?list1.val:101;
             int val2=list2!=null?list2.val:101;
             if(val1<val2){
-                ListNode obj=new ListNode(val1);
-                pre.next=obj;
-                pre=obj;
+                // ListNode obj=new ListNode(val1);
+                pre.next=list1;
+                pre=list1;
                 list1=list1.next;
             }else{
-                ListNode obj=new ListNode(val2);
-                pre.next=obj;
-                pre=obj;
+                // ListNode obj=new ListNode(val2);
+                pre.next=list2;
+                pre=list2;
                 list2=list2.next;
             }
         }
